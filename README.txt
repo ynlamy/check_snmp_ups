@@ -1,6 +1,6 @@
 This plugin can check the status of Uninterruptible Power Supply (UPS) using SNMP v1 queries.
 
-The check_snmp_ups is written in Bash and is distributed under the GPLv2 license. This plugin have been created by Yoann LAMY.
+check_snmp_ups is written in Bash and is distributed under the GPLv2 license. This plugin have been created by Yoann LAMY.
 
 Usage: ./check_snmp_ups -H xxx.xxx.xxx.xxx -C public -t battery
 
